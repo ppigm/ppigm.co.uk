@@ -1,6 +1,6 @@
-# PPIGM Clone Website
+# PPIGM Website 🇮🇩🇬🇧 (clone)
 
-Website (unofficial) for the Indonesian Students Association at Greater Manchester.
+Website (unofficial) for the Indonesian Students Association at Greater Manchester. You can find the original website [here](https://www.ppigm.com/).
 
 ## Contributing
 
