@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Stellar by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Stellar by HTML5 UP"
+    title: "PPIGM | Indonesian Students at Greater Manchester",
+    author: "Rakha Djokosoetono",
+    description: ""
   },
   plugins: [
     'gatsby-plugin-react-helmet',
