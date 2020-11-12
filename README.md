@@ -1,19 +1,31 @@
-# gatsby-starter-stellar
+# PPIGM Website 🇮🇩🇬🇧 (clone)
 
-**This starter has been updated for Gatsby.js V2.**
+Website (unofficial) for the Indonesian Students Association at Greater Manchester. You can find the original website [here](https://www.ppigm.com/).
 
-**The older V1 version of this starter can be found in the V1 branch**
+## Contributing
 
-Gatsby.js V2 starter based on the Stellar site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
+Refer to the [guide](./CONTRIBUTING.md) to get started and contribute to our website!
 
-## Preview
+## Legal Stuff
 
-https://gatsby-stellar.surge.sh/
+> MIT License
+> 
+> Copyright (c) 2020 PPI Greater Manchester
 
-## Installation
+> Permission is hereby granted, free of charge, to any person obtaining a copy
+> of this software and associated documentation files (the "Software"), to deal
+> in the Software without restriction, including without limitation the rights
+> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+> copies of the Software, and to permit persons to whom the Software is
+> furnished to do so, subject to the following conditions:
+> 
+> The above copyright notice and this permission notice shall be included in all
+> copies or substantial portions of the Software.
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br>
-`gatsby new gatsby-starter-stellar https://github.com/codebushi/gatsby-starter-stellar`
-
-Run `gatsby develop` in the terminal to start the dev site.
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+> OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+> SOFTWARE.
