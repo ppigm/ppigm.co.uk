@@ -21,6 +21,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+      
+      # Install Gatsby CLI
+      - name: Install Gatsby
+        run: npm install gatsby-cli
 
       # Install required NPM dependencies
       - name: Install Modules
