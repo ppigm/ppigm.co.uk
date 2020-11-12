@@ -24,7 +24,7 @@ jobs:
       
       # Install Gatsby CLI
       - name: Install Gatsby
-        run: npm install gatsby-cli
+        run: npm install -g gatsby-cli
 
       # Install required NPM dependencies
       - name: Install Modules
